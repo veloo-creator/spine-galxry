@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
    * LANDER LOGIC (Redirect on both buttons)
    */
   const landerRedirect =
-    "http://zeurix.site/?utm_campaign=gXUQnk2FQz&v1=[v1]&v2=[v2]&v3=[v3]";
+    "https://record.affantage.com/__fi3nuq19NkWqcfzuvZcQGNd7ZgqdRLk/24/?pg=1";
 
   document.getElementById("gn-yes").addEventListener("click", () => {
     if (isLander) {
