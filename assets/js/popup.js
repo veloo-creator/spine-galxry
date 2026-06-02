@@ -19,8 +19,8 @@ document.addEventListener("DOMContentLoaded", () => {
   bd.className = "modal-backdrop";
   bd.innerHTML = `
     <div class="modal" role="dialog" aria-modal="true" aria-label="Policy Notice">
-      <h3>Policy Notice</h3>
-      <p>Are you accepting our policy to play the game? This notice is informational and does not block access.</p>
+      <h3>Welcome To Casiny</h3>
+      <p>Are you accepting our policy? This notice is informational and does not block access.</p>
       <div class="actions">
         <button class="btn" id="gn-yes">Yes, Accept</button>
         <button class="btn ghost" id="gn-close">Close</button>
